@@ -1,1 +1,11 @@
-I am Bat Man
+I am Bat Man delete mode 100644 text2.txt
+PS C:\Users\HP\OneDrive\Desktop\youtube git\Jeevam> git push origin main
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (1/1), done.
+Writing objects: 100% (2/2), 240 bytes | 240.00 KiB/s, done.
+Total 2 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/Jeeva1296/Jeevam.git
+   8aaa9ea..66262ce  main -> main
+PS C:\Users\HP\OneDrive\Desktop\youtube git\Jeevam> 
